@@ -1,6 +1,9 @@
+## This repository will allow you to set up a Headless SSR Proxy for the JSS Site.
+
+
 # Pull
 
-````docker pull tmamedbekov/headless-sitecore```
+```docker pull tmamedbekov/headless-sitecore```
 
 ## Run
 
